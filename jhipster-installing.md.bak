@@ -2,7 +2,6 @@
  官网下载node js[下载地址](https://nodejs.org/en/)  
 [安装教程](https://segmentfault.com/a/1190000005602881)
 安装成功后可一查看版本
-
 ```
 node -v
 npm -v
